@@ -1,0 +1,13 @@
+body{
+    font-family: 'Lobster', cursive;
+background-color: #86C8BC;
+}
+.card-text{
+    text-align: justify;
+}
+.card-body{
+    background-color: #BFEAF5;
+}
+.card{
+    box-shadow: 2px 3px 5px #434242 ;
+}
